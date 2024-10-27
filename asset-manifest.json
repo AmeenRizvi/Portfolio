@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/Portfolio/static/js/main.9f36084d.js",
+    "static/media/Ameen.jpg": "/Portfolio/static/media/Ameen.a0f48b8fb361ec897953.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.bf538fe7.css.map": "/Portfolio/static/css/main.bf538fe7.css.map",
+    "main.9f36084d.js.map": "/Portfolio/static/js/main.9f36084d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.9f36084d.js"
+  ]
+}
